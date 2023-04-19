@@ -7,3 +7,4 @@
 ## 注意事项
 1. 函数名我基本上都加了HESea前缀，但也有可能漏掉的
 2. 头文件"palisade.h"的名字要不要改一下？？
+3. 注意nn_multi_pke.cpp与weights-and-biases文件夹的相对路径，保证程序能够正确寻找到路径。
